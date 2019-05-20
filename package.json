@@ -1,0 +1,14 @@
+{
+  "name": "learning-mdx-deck-getting-started",
+  "version": "1.0.0",
+  "description": "Learning MDX Deck: Getting Started",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Follett",
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^2.3.2"
+  }
+}
