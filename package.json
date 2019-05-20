@@ -4,6 +4,7 @@
   "description": "Learning MDX Deck: Getting Started",
   "scripts": {
     "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dave Follett",
